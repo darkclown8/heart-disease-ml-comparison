@@ -1,0 +1,7 @@
+,0
+LogReg,{'clf__C': np.float64(0.0745934328572655)}
+SVM,"{'clf__C': np.float64(21.368329072358772), 'clf__gamma': np.float64(0.0007068974950624604)}"
+RF,"{'clf__max_depth': 5, 'clf__min_samples_leaf': 8, 'clf__n_estimators': 288}"
+XGBoost,"{'clf__learning_rate': np.float64(0.010815983055225093), 'clf__max_depth': 4, 'clf__n_estimators': 158, 'clf__subsample': np.float64(0.7599443886861021)}"
+MLP,"{'clf__alpha': np.float64(5.4167545832474595e-05), 'clf__hidden_layer_sizes': (16,)}"
+kNN,"{'clf__n_neighbors': 28, 'clf__weights': 'uniform'}"
