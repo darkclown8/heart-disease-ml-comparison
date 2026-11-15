@@ -1,6 +1,0 @@
-Model,DeLong p,DeLong p (Holm),McNemar p,McNemar p (Holm)
-SVM,0.4148,1.0,1.0,1.0
-RF,0.4916,1.0,1.0,1.0
-XGBoost,0.5695,1.0,1.0,1.0
-MLP,0.0339,0.1694,0.1797,0.8984
-kNN,0.7661,1.0,1.0,1.0
